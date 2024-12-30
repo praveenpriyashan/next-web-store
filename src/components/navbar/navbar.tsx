@@ -3,6 +3,8 @@
 export const Navbar=()=>{
 
     return(
-        <div> this is navbar</div>
+        <div>
+        <h2> this is a navbar</h2>
+        </div>
     )
 }
