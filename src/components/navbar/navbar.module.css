@@ -1,0 +1,11 @@
+.button {
+    margin-top: 0.125rem; /* mt-0.5 */
+    display: inline-block; /* inline-block */
+    background-color: #000; /* bg-black */
+    padding: 0.75rem 1.25rem; /* px-5 py-3 */
+    font-size: 0.75rem; /* text-xs */
+    font-weight: 500; /* font-medium */
+    text-transform: uppercase; /* uppercase */
+    letter-spacing: 0.05em; /* tracking-wide */
+    color: #fff; /* text-white */
+}
